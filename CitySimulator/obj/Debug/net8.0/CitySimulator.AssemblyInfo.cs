@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CitySimulator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6c0f36bf6dcc2b2f84fadf7cd1e255b99d987bb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77c53827e3482225c2f076219836b557448241a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("CitySimulator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CitySimulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
